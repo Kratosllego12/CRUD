@@ -1,16 +1,10 @@
 ﻿<template>
   <div class="default-layout">
-    <AppHeader/>
     <div class="content-wrapper">
-      <Sidebar v-if="showSidebar"/>
       <main class="main-content">
         <RouterView/>
       </main>
     </div>
-    <AppFooter/>
-    <button class="toggle-button" @click="toggleSidebar">
-      {{ showSidebar ? $t("sidebar.hide") : $t("sidebar.show") }}
-    </button>
   </div>
 </template>
 

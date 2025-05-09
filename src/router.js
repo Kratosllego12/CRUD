@@ -5,7 +5,7 @@ import ArticleItemCreateEdit from "@/News/Presentation/article-item-create-edit.
 import {createRouter, createWebHistory} from "vue-router";
 
 const routes = [
-    {path: '/', component: HomeView},
+    {path: '/', component: ArticleView},
     {path: '/article', component: ArticleView ,exact: true},
     {path: '/article/create', component: ArticleItemCreateEdit ,exact: true},
     {path: '/article/update/:id', component: ArticleItemCreateEdit, name: "updateArticle"},
