@@ -1,0 +1,53 @@
+﻿{
+  "message": {
+    "hello": "Hello {user}",
+    "welcome": "Welcome to our platform!",
+    "goodbye": "Goodbye, see you soon!",
+    "error": "An error occurred. Please try again later.",
+    "success": "Your action was successful!",
+    "loading": "Loading..."
+  },
+  "articles": {
+    "title": "Latest Operations",
+    "title2": "Title",
+    "operation": "Operation",
+    "date": "Date",
+    "actions": "Actions",
+    "delete": "Delete",
+    "read_more": "Read More",
+    "author": "Author",
+    "published_at": "Published at",
+    "category": "Category",
+    "tags": "Tags",
+    "comments": "Comments",
+    "no_articles": "No articles available.",
+    "related_articles": "Related Articles",
+    "share": "Share Article",
+    "copy_to_clipboard": "Copy link to clipboard"
+  },
+  "home": {
+    "title": "Welcome to Home",
+    "welcome_message": "We’re glad to have you here! Enjoy your time.",
+    "product_name": "Name of Product:",
+    "submit": "Submit",
+    "show_right_bar": "Show Right Bar",
+    "hide_right_bar": "Hide Right Bar",
+    "featured_products": "Featured Products",
+    "latest_news": "Latest News",
+    "contact_us": "Contact Us"
+  },
+  "user": {
+    "profile": "User Profile",
+    "settings": "Settings",
+    "logout": "Log Out",
+    "login": "Log In",
+    "register": "Register",
+    "edit_profile": "Edit Profile",
+    "notifications": "Notifications"
+  },
+  "errors": {
+    "404": "Page not found",
+    "500": "Internal server error",
+    "network": "Network error. Please check your connection."
+  }
+}

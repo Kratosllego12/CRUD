@@ -1,0 +1,53 @@
+﻿{
+  "message": {
+    "hello": "こんにちは {user}",
+    "welcome": "ようこそ！",
+    "goodbye": "さようなら、また会いましょう!",
+    "error": "エラーが発生しました。後でもう一度お試しください。",
+    "success": "操作が成功しました！",
+    "loading": "読み込み中..."
+  },
+  "articles": {
+    "title": "最新の記事",
+    "title2": "Titre",
+    "operation": "Opération",
+    "date": "Date",
+    "actions": "Actes",
+    "delete": "Supprimer",
+    "read_more": "続きを読む",
+    "author": "著者",
+    "published_at": "投稿日",
+    "category": "カテゴリー",
+    "tags": "タグ",
+    "comments": "コメント",
+    "no_articles": "記事がありません。",
+    "related_articles": "関連記事",
+    "share": "記事を共有",
+    "copy_to_clipboard": "リンクをクリップボードにコピー"
+  },
+  "home": {
+    "title": "ホームへようこそ",
+    "welcome_message": "ここに来てくれて嬉しいです！どうぞ楽しんでください。",
+    "product_name": "製品名：",
+    "submit": "送信",
+    "show_right_bar": "右バーを表示",
+    "hide_right_bar": "右バーを隠す",
+    "featured_products": "おすすめ商品",
+    "latest_news": "最新ニュース",
+    "contact_us": "お問い合わせ"
+  },
+  "user": {
+    "profile": "ユーザープロフィール",
+    "settings": "設定",
+    "logout": "ログアウト",
+    "login": "ログイン",
+    "register": "登録",
+    "edit_profile": "プロフィールを編集",
+    "notifications": "通知"
+  },
+  "errors": {
+    "404": "ページが見つかりません",
+    "500": "サーバー内部エラー",
+    "network": "ネットワークエラーです。接続を確認してください。"
+  }
+}
